@@ -3,7 +3,7 @@ DevOps Course Repository with kubernetes manifests ai generation prompt examples
 
 ### AI Tool
 
-These prompts were generated with the help of [kubectl-ai](https://github.com/sozercan/kubectl-ai) kubernetes CLI extension with OpenAI API
+These prompts were generated with the help of [kubectl-ai](https://github.com/sozercan/kubectl-ai) kubernetes CLI extension with OpenAI API [gpt-4o-mini](https://platform.openai.com/docs/models/gpt-4o-mini) model
 
 #### Used command format to generate manifests from these prompts
 
